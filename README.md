@@ -22,3 +22,8 @@ I made various types of graphs depend on types of compartion variables i had.
 <li>The longest rides took place at afternoon period with a wider range of duration as well.</li>
 <li>Less riding duration extended to 3 hours only was in night period for all February weeks. Most of people do riding with more duration were concentrated in afternoon period especially in first and second weeks of February. people tend to go riding at morning in the last week of the month of febryuary.</li>
 </ol>
+
+## Key Insights for Presentation
+<p>Third week of februay, number of customers with high length of duration were more than subscribers.Less duration for both types in last week</p>
+<p>In general, rides less crowded in last week and more crowded in middle weeks</p>
+<p>On average, customers and subscribers like to start and end riding at 17 o'clock.then people like to went riding at 8 o'clock but subscribers more than customer</p>
