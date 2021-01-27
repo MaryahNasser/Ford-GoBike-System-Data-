@@ -3,15 +3,17 @@
 This is data analyst project required  to pass Udacity Nanodegree program. I used Jupyter notebook and data visualization libraries like numpy,pandas,matplotlib, and seaborn to explore the dataset. 
 
 ## Exploration:
-<ul>
 I made various types of graphs depend on types of compartion variables i had.
+<ul>
 <li><p>Bar chart and pie chart for qualitative univariant variable</p></li>
 <li><p>Histogram for quantitive univariant variable</p></li>
 <li><p>Scatterplot for quantitive bivariant variable and multivariant variables</p></li>
 <li><p>Heatmap for qualitative Bivariant variable</p></li>
 <li><p>Boxplot for qualitative VS quantitive variables</p></li>
 </ul>
+
 ## Key Observations:
+
 <ol>
 <li>most of the riders was subscribers of the company.</li>
 <li>74% of riders were male. However, only 23 were female and 2% from other.</li>
