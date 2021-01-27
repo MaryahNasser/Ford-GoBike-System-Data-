@@ -1,2 +1,3 @@
 # Ford-GoBike-System-Data-
-This is data analyst project required  to pass Udacity Nanodegree program 
+## Introduction
+This is data analyst project required  to pass Udacity Nanodegree program. I used Jupyter notebook ans data visualization libraries to explore the dataset. 
